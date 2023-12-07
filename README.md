@@ -1,5 +1,5 @@
-<p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&pause=400&color=1CF7E6&random=false&width=435&lines=Assalamu+Alaikum;I'm+Mahmoud+Salah;Undergraduate+Software+Engineer" alt="Typing SVG" /></a>
+<p align='center' width=500px hight=100px>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&pause=400&color=1CF7E6&random=false&width=435&lines=Assalamu+Alaikum;I'm+Mahmoud+Salah;a+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
