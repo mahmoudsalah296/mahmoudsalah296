@@ -1,4 +1,4 @@
-<p align='center' style='height:100px;display: flex;
+<p align='center' style='height:150px;display: flex;
 	justify-content: center; align-items:center''>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=26&pause=400&color=1CF7E6&background=FFFFFF00&random=false&width=435&lines=Assalamu+Alaikum;I'm+Mahmoud+Salah;Undergraduate+Software+Engineer" alt="Typing SVG" /></a>
 </p>
