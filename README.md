@@ -9,6 +9,10 @@
 - 🔭 I’m currently working on my graduation project (essay exams correction using machine learning)
 - 🌱 I’m currently learning NLP (Natural Language Processing)
 
+
+
+
+
 ### Tools And Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bash,c,docker,git,github,linux,nginx,mysql,)](https://skillicons.dev)
