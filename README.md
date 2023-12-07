@@ -1,10 +1,12 @@
 <p align="center">
-  <a href="https://github.com/mahmoudsalah296/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assalamu+Alaikum;I+am+Mahmoud+Salah&center=true&width=500&height=50"></a>
+  <a href="https://github.com/mahmoudsalah296/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assalamu+Alaikum;I+am+Mahmoud+Salah&center=true&width=550&height=70"></a>
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 💻 I'm a student at faculty of computers and artificial intelligence - Cairo University
 - 📖 I am currently a student at ALX foundation program
+- 🔭 I’m currently working on my graduation project (essay exams correction using machine learning)
+- 🌱 I’m currently learning NLP (Natural Language Processing)
 
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
