@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mahmoudsalah296/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assalamu+Alaikum;I+am+Mahmoud+Salah&center=true&width=550&height=70"></a>
+  <a href="https://github.com/mahmoudsalah296/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assalamu+Alaikum;I+am+Mahmoud+Salah; Undergraduate Software Engineer&center=true&width=550&height=70"></a>
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
