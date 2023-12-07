@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://github.com/mahmoudsalah296/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assalamu+Alaikum;I+am+Mahmoud+Salah&center=true&width=500&height=50"></a>
+</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 💻 I'm a student at faculty of computers and artificial intelligence - Cairo University
