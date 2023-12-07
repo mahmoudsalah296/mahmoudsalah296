@@ -8,8 +8,9 @@
 - 📖 I am currently a student at ALX foundation program
 - 🔭 I’m currently working on my graduation project (essay exams correction using machine learning)
 - 🌱 I’m currently learning NLP (Natural Language Processing)
-<br>
+
 ### Tools And Technologies
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bash,c,docker,git,github,linux,nginx,mysql,)](https://skillicons.dev)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
