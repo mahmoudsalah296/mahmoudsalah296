@@ -9,9 +9,9 @@
 - 🔭 I’m currently working on my graduation project (essay exams correction using machine learning)
 - 🌱 I’m currently learning NLP (Natural Language Processing)
 
-
-
-
+<br />
+<br />
+<br />
 
 ### Tools And Technologies
 
