@@ -1,6 +1,6 @@
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&pause=400&color=1CF7E6&random=false&width=435&lines=Assalamu+Alaikum;I'm+Mahmoud+Salah;Undergraduate+Software+Engineer)](https://git.io/typing-svg)
-</p>
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 💻 I'm a student at faculty of computers and artificial intelligence - Cairo University
