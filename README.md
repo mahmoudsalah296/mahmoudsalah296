@@ -27,7 +27,7 @@
 <br />
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-(https://github-readme-stats.vercel.app/api?username=mahmoudsalah296&theme=dark&show_icons=true)
+[](https://github-readme-stats.vercel.app/api?username=mahmoudsalah296&theme=dark&show_icons=true)
 <!--
 **mahmoudsalah296/mahmoudsalah296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
