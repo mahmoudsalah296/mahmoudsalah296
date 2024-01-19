@@ -31,7 +31,7 @@
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=donut&theme=buefy&hide_border=true" /></a> 
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=compact)
 
 
 <!--
