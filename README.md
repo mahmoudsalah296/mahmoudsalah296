@@ -27,9 +27,8 @@
 <br />
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudsalah296&show_icons=true&theme=buefy&hide=issues,contribs) <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=compact&theme=buefy&hide_border=true" /></a> 
-
-
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudsalah296&show_icons=true&theme=buefy&hide=issues,contribs) 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mahmoudsalah296/mahmoudsalah296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
