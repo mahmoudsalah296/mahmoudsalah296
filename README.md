@@ -6,7 +6,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 💻 I'm a student at faculty of computers and artificial intelligence - Cairo University
 - 📖 I am currently a student at ALX foundation program
-- 🔭 I’m currently working on my graduation project(essay exams correction using machine learning)
+- 🔭 I’m currently working on my graduation project (essay exams correction using machine learning)
 - 🌱 I’m currently learning NLP (Natural Language Processing)
 
 <br />
