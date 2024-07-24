@@ -1,13 +1,13 @@
 <p align='center' style='height:150px;display: flex;
 	justify-content: center; align-items:center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=26&pause=400&color=1CF7E6&background=FFFFFF00&random=false&width=435&lines=Assalamu+Alaikum;I'm+Mahmoud+Salah;graduate+Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=26&pause=400&color=1CF7E6&background=FFFFFF00&random=false&width=435&lines=Assalamu+Alaikum;I'm+Mahmoud+Salah;Backend+Software+Engineer" alt="Typing SVG" /></a>
 	
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 💻 a graduate of faculty of computers and artificial intelligence - Cairo University
-- 📖 graduated from ALX foundation program (12-month program)
-- 🌱 I’m currently learning asp.Net
+- 💻 A graduate of faculty of computers and artificial intelligence - Cairo University
+- 📖 Graduated from ALX foundation program (12-month program)
+- 🌱 I’m currently learning ASP.NET
 
 <br />
 <br /> 
