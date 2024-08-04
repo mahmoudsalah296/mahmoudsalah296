@@ -29,8 +29,8 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 <p float="left">
 	
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsalah296&show_icons=true&theme=transparent" alt="Mahmoud's GitHub stats" height=200 width=50%/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=compact" alt="Most used Languages" height=200 width=50%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsalah296&show_icons=true&theme=transparent" alt="Mahmoud's GitHub stats" height=200 width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=compact" alt="Most used Languages" height=200 width="49%"/>
 </p>
 
 <!--
