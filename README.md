@@ -30,7 +30,7 @@
 <p float="left">
 	
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsalah296&show_icons=true&theme=transparent" alt="Mahmoud's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=compact" alt="Most used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah296&layout=donut" alt="Most used Languages" width="48%" />
 </p>
 
 <!--
