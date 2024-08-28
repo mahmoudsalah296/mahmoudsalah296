@@ -7,7 +7,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 💻 A graduate of faculty of computers and artificial intelligence - Cairo University
 - 📖 Graduated from ALX foundation program (12-month program)
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning ASP.NET and Angular
 
 <br />
 <br /> 
